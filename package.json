@@ -1,9 +1,9 @@
 {
-  "name": "patternfly-seed",
+  "name": "patternfly-react-seed",
   "version": "0.0.1",
-  "description": "An open source build scaffolding utility for web apps.",
+  "description": "A basic patternfly 4 seed",
   "main": "index.js",
-  "repository": "https://github.com/patternfly/patternfly-react-seed.git",
+  "repository": "https://github.com/guimou/patternfly-seed.git",
   "license": "MIT",
   "private": true,
   "scripts": {
